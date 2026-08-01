@@ -1,5 +1,5 @@
 # OmniRoute Railway Dockerfile - Versión corregida
-FROM diegosouzapw/omniroute:latest-web
+FROM diegosouzapw/omniroute:latest
 
 # Trabajar como root para preparar permisos
 USER root
